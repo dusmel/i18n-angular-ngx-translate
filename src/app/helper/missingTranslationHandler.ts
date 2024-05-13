@@ -2,7 +2,6 @@ import {MissingTranslationHandler, MissingTranslationHandlerParams} from '@ngx-t
 
 export class MissingTranslationHelper implements MissingTranslationHandler {
   handle(params: MissingTranslationHandlerParams) {
-     console.log('************ here *********', params.key);
     if (params.interpolateParams) {
       return "missingKey"
     }

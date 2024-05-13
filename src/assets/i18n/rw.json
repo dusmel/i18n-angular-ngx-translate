@@ -2,6 +2,7 @@
 	"hello": "Muraho",
 	"welcomeMessage": "",
 	"subtitle": "",
+	"anotherSubtitle": "",
 	"login": {
 		"username": "",
 		"password": ""
