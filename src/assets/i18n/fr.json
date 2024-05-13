@@ -1,0 +1,9 @@
+{
+	"hello": "Bonjour",
+	"welcomeMessage": "Merci de nous rejoindre, {{ firstName }} ! Nous sommes ravis de vous avoir parmi nous !",
+	"subtitle": "",
+	"login": {
+		"username": "Enter your user name",
+		"password": "Password here"
+	}
+}
