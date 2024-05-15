@@ -3,6 +3,7 @@
 	"welcomeMessage": "",
 	"subtitle": "",
 	"anotherSubtitle": "",
+	"navbar": "",
 	"login": {
 		"username": "",
 		"password": ""
