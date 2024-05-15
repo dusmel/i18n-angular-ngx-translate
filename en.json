@@ -1,0 +1,12 @@
+{
+    "hello": "Hello",
+    "welcomeMessage": "Thanks for joining, {{ firstName }}! It's great to have you!",
+    "subtitle": "Another subtitle",
+    "login": {
+        "username": "Enter your user name",
+        "password": "Password here"
+    },
+    "anotherSubtitle": "Just some random subtitle",
+    "navbar": "Navbar",
+    "footer": "Footer"
+}
