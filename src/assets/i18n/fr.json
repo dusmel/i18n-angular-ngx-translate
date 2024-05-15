@@ -4,6 +4,7 @@
 	"subtitle": "",
 	"anotherSubtitle": "",
 	"navbar": "",
+	"footer": "",
 	"login": {
 		"username": "Enter your user name",
 		"password": "Password here"

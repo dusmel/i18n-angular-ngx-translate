@@ -4,6 +4,7 @@
 	"subtitle": "Another subtitle",
 	"anotherSubtitle": "Just some random subtitle",
 	"navbar": "Navbar",
+	"footer": "Footer",
 	"login": {
 		"username": "Enter your user name",
 		"password": "Password here"
