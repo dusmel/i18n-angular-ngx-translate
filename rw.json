@@ -1,0 +1,10 @@
+{
+    "hello": "Muraho",
+    "welcomeMessage": "Murakoze kuza, {{ firstName }}! Turishimye cyane kuba muri kumwe natwe!",
+    "subtitle": "",
+    "login": {
+        "username": "",
+        "password": "Ijambobanga hano"
+    },
+    "anotherSubtitle": ""
+}
