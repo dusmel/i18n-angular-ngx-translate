@@ -3,6 +3,7 @@
 	"welcomeMessage": "Thanks for joining, {{ firstName }}! It's great to have you!",
 	"subtitle": "Another subtitle",
 	"anotherSubtitle": "Just some random subtitle",
+  "testCrowdin": "This is a test for Crowdin",
 	"navbar": "Navbar",
 	"footer": "Footer",
 	"login": {

@@ -1,4 +1,4 @@
-name: Crowdin Action
+name: Crowdin Translation Action
 
 on:
   push:
