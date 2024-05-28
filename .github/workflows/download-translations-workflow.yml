@@ -23,11 +23,11 @@ jobs:
           upload_sources: false
           upload_translations: false
           download_translations: true
-          localization_branch_name: "task/l10n-crowdin-translations-${{ github.run_id }}"
+          localization_branch_name: "task/l10n-crowdin-translations-${{ github.ref_name }}"
 
           create_pull_request: true
-          pull_request_title: "New translations"
-          pull_request_body: "New Crowdin pull request with translations"
+          pull_request_title: "New translations for ${{ github.ref_name }}"
+          pull_request_body: "This PR syncs translations added on this [${{ github.ref_name }}](https://github.com/Irembo/${{ github.repository }}/tree/${{ github.ref_name }}) by Crowdin. You can check PRs associated with the branch."
           pull_request_base_branch_name: "${{ github.ref }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
