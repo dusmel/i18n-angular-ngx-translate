@@ -1,12 +1,12 @@
 {
 	"hello": "Muraho",
-	"welcomeMessage": "",
-	"subtitle": "",
-	"anotherSubtitle": "",
-	"navbar": "",
-	"footer": "",
+	"welcomeMessage": "Thanks for joining, {{ firstName }}! It's great to have you!",
+	"subtitle": "Indi nsanganyamatsiko",
+	"anotherSubtitle": "Just some random subtitle",
+	"navbar": "Navbar",
+	"footer": "Footer",
 	"login": {
-		"username": "",
-		"password": ""
+		"username": "Enter your user name",
+		"password": "Password here"
 	}
 }

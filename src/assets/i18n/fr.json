@@ -1,10 +1,10 @@
 {
 	"hello": "Bonjour",
 	"welcomeMessage": "Merci de nous rejoindre, {{ firstName }} ! Nous sommes ravis de vous avoir parmi nous !",
-	"subtitle": "",
-	"anotherSubtitle": "",
-	"navbar": "",
-	"footer": "",
+	"subtitle": "Autre sous-titre",
+	"anotherSubtitle": "Just some random subtitle",
+	"navbar": "Navbar",
+	"footer": "Footer",
 	"login": {
 		"username": "Enter your user name",
 		"password": "Password here"
