@@ -2,7 +2,8 @@
 	"hello": "Muraho",
 	"welcomeMessage": "Thanks for joining, {{ firstName }}! It's great to have you!",
 	"subtitle": "Indi nsanganyamatsiko",
-	"anotherSubtitle": "Just some random subtitle",
+	"anotherSubtitle": "Gusa udutweko dutandukanye",
+	"testCrowdin": "This is a test for Crowdin.",
 	"navbar": "Navbar",
 	"footer": "Footer",
 	"login": {
