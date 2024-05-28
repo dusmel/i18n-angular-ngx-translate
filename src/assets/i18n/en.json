@@ -4,6 +4,7 @@
 	"subtitle": "Another subtitle",
 	"anotherSubtitle": "Just some random subtitle",
   "testCrowdin": "This is a test for Crowdin.",
+  "testCrowdinDownload": "This is a test for Crowdin download action.",
 	"navbar": "Navbar",
 	"footer": "Footer",
 	"login": {
